@@ -1,0 +1,304 @@
+Uri: https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,600
+File Name: C:\Downloaded Web Sites\icecryptos.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCs6KVjbNBYlgoKfw7z.ttf
+File Name: C:\Downloaded Web Sites\icecryptos.com\s\ubuntu\v20\4iCs6KVjbNBYlgoKfw7z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoC1CzjsGyI.ttf
+File Name: C:\Downloaded Web Sites\icecryptos.com\s\ubuntu\v20\4iCv6KVjbNBYlgoC1CzjsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ubuntu/v20/4iCv6KVjbNBYlgoCjC3jsGyI.ttf
+File Name: C:\Downloaded Web Sites\icecryptos.com\s\ubuntu\v20\4iCv6KVjbNBYlgoCjC3jsGyI.ttf
+Content Type: font/ttf
+
+Uri: https://icecryptos.com/
+File Name: C:\Downloaded Web Sites\icecryptos.com\index.htm
+Content Type: text/html
+
+Uri: https://icecryptos.com/assets/js/lang_ru.min.js?v1.09
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\js\lang_ru.min.js
+Content Type: application/x-javascript
+
+Uri: https://icecryptos.com/assets/min/general.min.js?v1.09
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\min\general.min.js
+Content Type: application/x-javascript
+
+Uri: https://icecryptos.com/assets/min/libs.min.css?v1.09
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\min\libs.min.css
+Content Type: text/css
+
+Uri: https://icecryptos.com/assets/min/libs.min.js?v1.09
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\min\libs.min.js
+Content Type: application/x-javascript
+
+Uri: https://icecryptos.com/assets/min/scriptttt.min.js?v1.09
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\min\scriptttt.min.js
+Content Type: application/x-javascript
+
+Uri: https://icecryptos.com/assets/min/styless.min.css?v1.09
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\min\styless.min.css
+Content Type: text/css
+
+Uri: https://icecryptos.com/assets/min/trade.min.js?v1.09
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\min\trade.min.js
+Content Type: application/x-javascript
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://icecryptos.com/assets/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\fontawesome-free\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://icecryptos.com/assets/plugins/jquery-validation/localization/messages_ru.min.js
+File Name: C:\Downloaded Web Sites\icecryptos.com\assets\plugins\jquery-validation\localization\messages_ru.min.js
+Content Type: application/x-javascript
+
+Uri: https://icecryptos.com/bonus
+File Name: C:\Downloaded Web Sites\icecryptos.com\bonus.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/faq
+File Name: C:\Downloaded Web Sites\icecryptos.com\faq.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/favicon.ico
+File Name: C:\Downloaded Web Sites\icecryptos.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://icecryptos.com/img/d/account.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\d\account.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/d/arrows.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\d\arrows.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/d/logoss.png
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\d\logoss.png
+Content Type: image/png
+
+Uri: https://icecryptos.com/img/d/scroll-center-icon.png
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\d\scroll-center-icon.png
+Content Type: image/png
+
+Uri: https://icecryptos.com/img/pm2/bitcoin.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\bitcoin.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/cardano.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\cardano.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/chainlink.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\chainlink.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/dash.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\dash.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/dogecoin.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\dogecoin.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/dot.png
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\dot.png
+Content Type: image/png
+
+Uri: https://icecryptos.com/img/pm2/etc.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\etc.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/ethereum.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\ethereum.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/litecoin.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\litecoin.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/matic.png
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\matic.png
+Content Type: image/png
+
+Uri: https://icecryptos.com/img/pm2/monero.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\monero.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/solana3.png
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\solana3.png
+Content Type: image/png
+
+Uri: https://icecryptos.com/img/pm2/tether.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\tether.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/tethertrc20.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\tethertrc20.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/tezos.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\tezos.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/tinkoff.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\tinkoff.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/tron.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\tron.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/visamastercard.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\visamastercard.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/img/pm2/zcash.svg
+File Name: C:\Downloaded Web Sites\icecryptos.com\img\pm2\zcash.svg
+Content Type: image/svg+xml
+
+Uri: https://icecryptos.com/login
+File Name: C:\Downloaded Web Sites\icecryptos.com\login.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/login/
+File Name: C:\Downloaded Web Sites\icecryptos.com\login\index.htm
+Content Type: text/html
+
+Uri: https://icecryptos.com/login?next=%2F
+File Name: C:\Downloaded Web Sites\icecryptos.com\login-1.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/partner
+File Name: C:\Downloaded Web Sites\icecryptos.com\partner.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/privacy
+File Name: C:\Downloaded Web Sites\icecryptos.com\privacy.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/recovery
+File Name: C:\Downloaded Web Sites\icecryptos.com\recovery.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/registration
+File Name: C:\Downloaded Web Sites\icecryptos.com\registration.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/registration/
+File Name: C:\Downloaded Web Sites\icecryptos.com\registration\index.htm
+Content Type: text/html
+
+Uri: https://icecryptos.com/reserve
+File Name: C:\Downloaded Web Sites\icecryptos.com\reserve.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/ru/
+File Name: C:\Downloaded Web Sites\icecryptos.com\ru\index.htm
+Content Type: text/html
+
+Uri: https://icecryptos.com/ru/bonus
+File Name: C:\Downloaded Web Sites\icecryptos.com\ru\bonus.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/ru/faq
+File Name: C:\Downloaded Web Sites\icecryptos.com\ru\faq.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/ru/partner
+File Name: C:\Downloaded Web Sites\icecryptos.com\ru\partner.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/ru/privacy
+File Name: C:\Downloaded Web Sites\icecryptos.com\ru\privacy.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/ru/support
+File Name: C:\Downloaded Web Sites\icecryptos.com\ru\support.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/ru/terms
+File Name: C:\Downloaded Web Sites\icecryptos.com\ru\terms.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/support
+File Name: C:\Downloaded Web Sites\icecryptos.com\support.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/terms
+File Name: C:\Downloaded Web Sites\icecryptos.com\terms.html
+Content Type: text/html
+
+Uri: https://icecryptos.com/terms-of-use
+File Name: C:\Downloaded Web Sites\icecryptos.com\terms-of-use.html
+Content Type: text/html
+
